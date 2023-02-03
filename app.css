@@ -1,0 +1,15 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 20%;
+
+}
+ul li {
+    cursor:pointer;
+    position:relative;
+    padding:12px 8px 12px 30px;
+    background-color: blue;
+    font-size: 18px;
+    transition: 0s;
+}
